@@ -1,5 +1,5 @@
 {
-    "name": "Atomic Calendar Revive",
+    "name": "github-action-release-changelog",
     "dockerFile": "Dockerfile",
     "context": "..",
     "appPorts": [
